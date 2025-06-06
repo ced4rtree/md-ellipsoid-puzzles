@@ -2,3 +2,4 @@ logs/
 *.out
 *.gsd
 *.txt
+.ipynb_checkpoints
